@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+<<<<<<< HEAD
+987654321
+=======
+123456789
+>>>>>>> 03b36ed (Task #ticket_id: practice git)
